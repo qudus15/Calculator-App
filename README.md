@@ -1,10 +1,10 @@
-<h1>A simple calculator App written in Swift/SwiftUI</h1>
-<p>Addition, Subtraction, Multipication and Division</p>
-<h2>Guides</h2>
-<ol type="1">
-<li>Input two numbers in fields. (Noted: Fields supports decimal points.)</li>
-<li>Click on operation button sign("+", "-", "x", "\") to select operation.</li>
-<li>Click on equal button to perform operation.</li>
-<li>Click on C button to clear fields after operation.</li>
+<h1>Simple Calculator App in Swift/SwiftUI</h1>
+<p>Supports Addition, Subtraction, Multiplication, and Division.</p>
+<h2>Usage Instructions</h2>
+<ol>
+  <li>Enter two numbers in the input fields. (Note: Fields support decimal values.)</li>
+  <li>Select an operation by clicking on the corresponding button ("+", "-", "x", "/").</li>
+  <li>Press the "=" button to calculate the result.</li>
+  <li>Use the "C" button to clear the fields and reset after the operation.</li>
 </ol>
-<p>Cheers!</p>
+<p>Enjoy using the app!</p>
