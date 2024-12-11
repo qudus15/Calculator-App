@@ -7,4 +7,5 @@
   <li>Press the "=" button to calculate the result.</li>
   <li>Use the "C" button to clear the fields and reset after the operation.</li>
 </ol>
+<p>Refer to the screenshots folder for a visual guide on how the app operates.</p>
 <p>Enjoy using the app!</p>
