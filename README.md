@@ -8,5 +8,7 @@
   <li>Use the "C" button to clear the fields and reset after the operation.</li>
 </ol>
 <h2>A visual guide on how the app operates.</h2>
-![Visual guide](https://github.com/user-attachments/assets/d5cc0d63-2cfb-4f15-8067-a6c05dd8384b)
+<video autoplay src="https://github.com/user-attachments/assets/08876186-478d-4495-9e77-cec72791e44d" width="300" />
 <p>Enjoy using the app!</p>
+
+
